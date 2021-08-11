@@ -1,7 +1,7 @@
 name = "siteproxy"
 type = "webpack"
 webpack_config = "webpack.config.js"
-account_id = "18c931199b10a6f76893a99ec6235282"
+account_id = "3c7c81da362248517db9a72cefdf6909"
 workers_dev = true
 route = ""
-zone_id = ""
+zone_id = "382ef0b64ce0aa38b2961eb14d728788"
