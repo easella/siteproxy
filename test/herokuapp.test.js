@@ -4,7 +4,7 @@
 const axios = require('axios');
 
 const httpprefix = 'https'
-const serverName = 'siteproxy.herokuapp.com'
+const serverName = 'lookuphistorybooks.herokuapp.com'
 const port = '443'
 
 test('post operation', async () => {
@@ -16,8 +16,8 @@ test('post operation', async () => {
       authorization: 'Bearer AAAAAAAAAAAAAAAAAAAAANRILgAAAAAAnNwIzUejRCOuH5E6I8xnZz4puTs%3D1Zv7ttfk8LF81IUq16cHjhLTvJu4FA33AGWWjCpTnA',
       connection: 'keep-alive',
       cookie: 'personalization_id="v1_DkZdb/rVpgZVDtiT3qVAUA=="; guest_id=v1%3A160056087565376493; _ga=GA1.3.1320916387.1600483268; _gid=GA1.3.1182741545.1600483268; ORIGINALHOST=https/api.twitter.com',
-      Host: 'siteproxy.herokuapp.com',
-      Referer: 'https://siteproxy.herokuapp.com/explore',
+      Host: 'lookuphistorybooks.herokuapp.com',
+      Referer: 'https://lookuphistorybooks.herokuapp.com/explore',
       'Sec-Fetch-Dest': 'empty',
       'Sec-Fetch-Mode': 'cors',
       'Sec-Fetch-Site': 'same-origin',
